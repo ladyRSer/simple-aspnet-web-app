@@ -27,10 +27,16 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
+
+- script: dotnet test --configuration Release --logger trx --results-directory $(Build.ArtifactStagingDirectory)/TestResults
+  displayName: 'Run xUnit Tests'
+
+- task: PublishTestResults@2
   inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    testResultsFormat: 'VSTest'
+    testResultsFiles: '**/TestResults/*.trx'
+    searchFolder: $(Build.ArtifactStagingDirectory)
+  displayName: 'Publish Test Results'
 
 - task: PublishBuildArtifacts@1
   inputs:
