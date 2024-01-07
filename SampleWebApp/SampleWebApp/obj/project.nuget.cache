@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXGXEWjbvDFeiJ4hAA6MFtqZONSYamSMwnIA3hk8jLTwtcYe5XEFSXDS0KoG57AgEjPzPS0m3BOXIhkDDlcLog==",
+  "dgSpecHash": "wwKkdlEgqihQZSowKiHSryrzF9f8jpqc4P3l+1am74xm5Lfw1xtDZjZZVMZX6Q0z+RMKYKZPF+ifCkiSEME5AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj",
+  "projectFilePath": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\simple-aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

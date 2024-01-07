@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj": {}
+    "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\simple-aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj": {
+    "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\simple-aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\simple-aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj",
         "projectName": "SampleWebApp",
-        "projectPath": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj",
+        "projectPath": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\simple-aspnet-web-app\\SampleWebApp\\SampleWebApp\\SampleWebApp.csproj",
         "packagesPath": "C:\\Users\\zeus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\SampleWebApp\\SampleWebApp\\obj\\",
+        "outputPath": "C:\\Users\\zeus\\Downloads\\aspnet-web-app\\simple-aspnet-web-app\\SampleWebApp\\SampleWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zeus\\AppData\\Roaming\\NuGet\\NuGet.Config",
